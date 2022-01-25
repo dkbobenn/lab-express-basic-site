@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  background: #2f2f2f;
+  
+  }
+
+  body h1 {
+    font-size: 100px;
+    color: white;
+  }
+
+  body a {
+    display: flex;
+    flex-direction: column;
+    color: turquoise;
+    font-size: 30px;
+    margin: 15px;
+    text-decoration: none;
+  }
+
+  body img {
+    width: 800px;
+    height: 450px;
+    margin-top: 40px;;
+  }
+
+
+  

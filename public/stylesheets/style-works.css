@@ -1,0 +1,27 @@
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+#works-section {
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+}
+
+#works-section > h2 {
+    color: #075F26;
+    font-weight: bold;
+    font-size: 50px;;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+
+#works-section > a {
+    color: #075F26;
+    font-weight: bold;
+    font-size: 25px;;
+    margin: 5px;
+    text-decoration: none;
+}

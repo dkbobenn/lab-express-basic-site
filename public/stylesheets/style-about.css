@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+body h1 {
+   font-size: 60px;
+}
+body p {
+    font-size: 20px;
+    margin: 10px;
+}
+
+body img {
+    width: 600px;
+}
